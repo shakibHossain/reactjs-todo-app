@@ -1,0 +1,13 @@
+.todo-list {
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+form {
+    display: inline-block;
+    padding-top: 30px;
+}
+
+label + .MuiInput-formControl {
+    margin-top: 22px !important;
+}
