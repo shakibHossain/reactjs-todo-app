@@ -1,4 +1,4 @@
-###To Do List App###
+To Do List App
 
 Built with React JS and Firebase.
 
